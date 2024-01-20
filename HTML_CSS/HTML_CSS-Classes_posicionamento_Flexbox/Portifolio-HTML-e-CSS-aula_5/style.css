@@ -1,0 +1,20 @@
+body{
+    background-color: #000000;
+    color: #F6F6F6;
+}
+
+strong{
+    color: #22D4FD;
+}
+.titulo-blog{
+    font-size: 42px;
+    font-weight: 800;
+}
+
+.texto-destaque{
+    color: aquamarine;
+}
+
+.urgente{
+    color: red;
+}

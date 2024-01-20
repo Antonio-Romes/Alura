@@ -1,0 +1,51 @@
+body{
+    background-color: #000000;
+    color: #F6F6F6;
+}
+ 
+main{
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    height: 100vh;;
+}
+.portifolio{
+    width: 900px;
+    height: 600px; 
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    justify-content: center; 
+}
+ 
+.portifolio img{
+    width: 378px;
+    height: 450px;
+    margin-left: 20px;
+}
+
+.portifolio-descricao{
+    width: 400px;
+}
+
+.portifolio-descricao h1{
+    font-size: 36px;
+    font-family: "Krona One";
+}
+
+.portifolio-descricao h1 strong{
+    color: #22D4FD;
+}
+
+.portifolio-descricao p{
+    font-size: 24px;
+    font-family: "Montserrat";
+    padding: 20px 0;
+}
+
+.portifolio-descricao a{
+   background-color: #22D4FD; 
+   padding: 10px 70px;
+   border-radius: 5px;
+   text-decoration: none;
+}
